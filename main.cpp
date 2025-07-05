@@ -1,8 +1,6 @@
 #include <iostream>
-#include <string>
 
-int main(int argc, const char** argv) {
-    
-    std::cout<<"helo Vova";
-    
+int main (){
+    std::cout<<"hello Vladimir"<<std::endl;
+    std::cout<<"it is two merge"<<std::endl;
 }
