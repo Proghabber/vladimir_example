@@ -1,6 +1,5 @@
 #include <iostream>
-#include <string>
 
-int main(){
+int main (){
     std::cout<<"hello Vladimir"<<std::endl;
 }
