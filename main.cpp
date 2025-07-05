@@ -1,5 +1,8 @@
 #include <iostream>
+#include <string>
 
-int main (){
-    std::cout<<"hello Vladimir"<<std::endl;
+int main(int argc, const char** argv) {
+    
+    std::cout<<"helo Vova";
+    
 }
